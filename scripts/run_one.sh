@@ -1,0 +1,1 @@
+python run_single.py --dataset_path mri_data.h5 --image_indice 28 --param_file params.json
